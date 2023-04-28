@@ -1,0 +1,15 @@
+D:\Контрольная работа GB\Control_task\bin\Debug\net7.0\Control_task.exe
+D:\Контрольная работа GB\Control_task\bin\Debug\net7.0\Control_task.deps.json
+D:\Контрольная работа GB\Control_task\bin\Debug\net7.0\Control_task.runtimeconfig.json
+D:\Контрольная работа GB\Control_task\bin\Debug\net7.0\Control_task.dll
+D:\Контрольная работа GB\Control_task\bin\Debug\net7.0\Control_task.pdb
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.csproj.AssemblyReference.cache
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.AssemblyInfoInputs.cache
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.AssemblyInfo.cs
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.csproj.CoreCompileInputs.cache
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.dll
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\refint\Control_task.dll
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.pdb
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\Control_task.genruntimeconfig.cache
+D:\Контрольная работа GB\Control_task\obj\Debug\net7.0\ref\Control_task.dll
