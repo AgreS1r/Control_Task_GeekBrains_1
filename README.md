@@ -22,3 +22,4 @@
 ---
 ## Блок-схемы к задачи
 ![БЛОК-СХЕМЫ](image.PNG)
+![image](https://user-images.githubusercontent.com/77669485/235165869-c271f3b0-42a3-4169-b54f-153f5d7395cb.PNG)
